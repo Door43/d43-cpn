@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cpn:home|Door43 (cpn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cpn|d43-cpn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cpn/archive/master.zip|d43-cpn.zip]]
+
+**Recent Changes**
+{{changes>ns = cpn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cpn|Ethnologue data]]
+
